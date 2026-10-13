@@ -1,0 +1,4 @@
+logs/*
+!logs/.gitkeep
+backups/*
+!backups/.gitkeep
